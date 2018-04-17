@@ -27,7 +27,7 @@ navbar-links:
   About: "about"
   AFL:
     - Ratings: "ratings"
-    - Predictions: "ladder"
+    - Predictions: "predictions"
     - Results: "results"
     - Ladder: "ladder"
     - Simulations: "simulations"
