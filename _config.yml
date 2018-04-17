@@ -1,3 +1,4 @@
+
 # --- General options --- #
 
 # url is the full website URL
@@ -24,6 +25,8 @@ description: Is this working?
 # List of links in the navigation bar
 navbar-links:
   Ratings: "ratings"
+  Predictions: "ladder"
+  Ladder: "ladder"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
