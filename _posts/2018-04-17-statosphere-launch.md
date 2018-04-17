@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Statosphere Sports Launch"
+title: "Statosphere Launch"
 date: 2018-04-17
 ---
 
