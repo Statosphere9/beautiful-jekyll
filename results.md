@@ -1,12 +1,12 @@
 ---
 layout: page
-title: AFL Elo Results 2018
+title: Results 
 ---
-	<ul class="results">
-	<div class="blurb">
-		<h1>AFL Elo Results 2018</h1>
-		<p>
-        <table border="1" class="dataframe">
+<ul class="results">
+<div class="blurb">
+<h1>AFL Elo Results 2018</h1>
+<p>
+<table border="1" class="dataframe">
   <thead>
     <tr style="text-align: center;">
       <th>Date</th>
@@ -494,6 +494,6 @@ title: AFL Elo Results 2018
   </tbody>
 </table>
 			
-	</p>
-	</div><!-- /.blurb -->	
-	</ul>
+</p>
+</div><!-- /.blurb -->	
+</ul>
