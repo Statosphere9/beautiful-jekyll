@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
+title: "Statosphere Sports Launch"
+date: 2018-04-17
 ---
 
-This is my first post, how exciting!
+Finally found time to put together a site for my various ratings I put together. 
