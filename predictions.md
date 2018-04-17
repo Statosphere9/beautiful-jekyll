@@ -4,7 +4,7 @@ title: AFL Elo Predictions 2018
 ---
 <ul class="predictions">
 <div class="blurb">
-<h1>AFL Elo Predictions 2018</h1>
+<h1></h1>
 <p>
 <table border="1" class="dataframe">
   <thead>
