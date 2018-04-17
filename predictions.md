@@ -1,5 +1,5 @@
 ---
-layout: results
+layout: page
 title: AFL Elo Predictions 2018
 ---
 <ul class="predictions">
