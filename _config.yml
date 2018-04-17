@@ -23,7 +23,7 @@ description: Is this working?
 
 # List of links in the navigation bar
 navbar-links:
-  Ratings: "aboutme"
+  Ratings: "ratings"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
